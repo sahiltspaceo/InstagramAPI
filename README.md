@@ -1,6 +1,6 @@
 
 
-Unofficial Instagram API to give you access to ALL Instagram features (like, follow, upload photo and video, etc)!
+Unofficial Instagram API built with Python.
 
 ### Installation Instructions
 
