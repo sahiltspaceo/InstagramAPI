@@ -7,7 +7,7 @@ Unofficial Instagram API to give you access to ALL Instagram features (like, fol
 
 1. Create virtual environment
 
-	`python3 -m virtualenv env_name you can give env_name as the name of your project`
+	`python3 -m virtualenv env_name ` you can give env_name as the name of your project
 	
 	If you get virtualenv not installed error:
 
