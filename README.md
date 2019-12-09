@@ -24,12 +24,12 @@ Unofficial Instagram API to give you access to ALL Instagram features (like, fol
 
 4. Fork/Clone/Download this repo
 
-    `git clone https://github.com/sahiltspaceo/Instagram-API-python.git`
+    `git clone https://github.com/sahiltspaceo/InstagramAPI.git`
 
  
 5. Navigate to the directory
 
-    `cd Instagram-API-python`
+    `cd InstagramAPI`
 
 
 6. Install the dependencies
