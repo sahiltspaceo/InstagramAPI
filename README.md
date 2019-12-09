@@ -6,7 +6,7 @@ Unofficial Instagram API built with Python.
 
 1. Create virtual environment
 
-	`python3 -m virtualenv env_name ` you can give env_name as the name of your project
+	`python3 -m virtualenv env_name`
 	
 	If you get virtualenv not installed error:
 
