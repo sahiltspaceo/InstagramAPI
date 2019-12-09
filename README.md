@@ -1,7 +1,6 @@
 
 
-Unofficial Instagram API to give you access to ALL Instagram features (like, follow, upload photo and video, etc)! Written in Python.
-
+Unofficial Instagram API to give you access to ALL Instagram features (like, follow, upload photo and video, etc)!
 
 ### Installation Instructions
 
@@ -20,7 +19,9 @@ Unofficial Instagram API to give you access to ALL Instagram features (like, fol
 
 
 3. Activate virtual environment
+
 	`source activate`
+
 
 4. Fork/Clone/Download this repo
 
